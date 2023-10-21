@@ -21,3 +21,9 @@ def test_best_time_to_buy_stock():
 if __name__ == "__main__":
     test_best_time_to_buy_stock()
     print("All test cases passed.")
+
+
+"""
+Time Complexity : O(N)
+Space Complexity : O(1)
+"""
